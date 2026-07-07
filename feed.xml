@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Meus Vídeos e Imagens do Drive</title>
-    <description>Feed gerado automaticamente com vídeos e imagens</description>
+    <title>Meus Vídeos e Imagens</title>
+    <description>Feed com links diretos do Drive</description>
     <link>https://drive.google.com/drive/folders/1Rwdtx8AbLBVJXo20qbQW2GGwHwDoVbzk</link>
     <item>
       <title>WhatsApp Video 2026-07-06 at 14.35.26.mp4</title>
       <description>Arquivo: WhatsApp Video 2026-07-06 at 14.35.26.mp4 (Tamanho: 1074952 bytes)</description>
-      <link>https://drive.google.com/uc?export=download&amp;id=1BDTFJmgo5dPtyv6O8BZrFzE2PJEbhAoc</link>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BDTFJmgo5dPtyv6O8BZrFzE2PJEbhAoc" type="video/mp4" length="1074952" />
+      <link>https://drive.usercontent.google.com/download?id=1BDTFJmgo5dPtyv6O8BZrFzE2PJEbhAoc</link>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1BDTFJmgo5dPtyv6O8BZrFzE2PJEbhAoc" type="video/mp4" length="1074952" />
+      <guid>1BDTFJmgo5dPtyv6O8BZrFzE2PJEbhAoc</guid>
     </item>
     <item>
       <title>Captura de tela 2026-07-03 160100.png</title>
       <description>Arquivo: Captura de tela 2026-07-03 160100.png (Tamanho: 261948 bytes)</description>
-      <link>https://drive.google.com/uc?export=download&amp;id=1lNKbhDc3uj09PzY03iwf3rc2EBOBd55i</link>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lNKbhDc3uj09PzY03iwf3rc2EBOBd55i" type="image/jpeg" length="261948" />
+      <link>https://drive.usercontent.google.com/download?id=1lNKbhDc3uj09PzY03iwf3rc2EBOBd55i</link>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1lNKbhDc3uj09PzY03iwf3rc2EBOBd55i" type="image/jpeg" length="261948" />
+      <guid>1lNKbhDc3uj09PzY03iwf3rc2EBOBd55i</guid>
     </item>
   </channel>
 </rss>
